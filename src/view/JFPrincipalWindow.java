@@ -31,6 +31,7 @@ public class JFPrincipalWindow extends JFrame{
 	
 	
 	public JFPrincipalWindow(Control control) {
+		setTitle("figuras");
 		setExtendedState(JFrame.MAXIMIZED_BOTH);
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
 		setLayout(new BorderLayout());
