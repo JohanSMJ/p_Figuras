@@ -1,0 +1,6 @@
+package controller;
+
+public enum Commands {
+CREATE_LINE,CREATE_RECTANGLE,CREATE_CIRCLE,CREATE_OVAL,
+CREATE_ARC, CREATE_POLYGON;
+}
